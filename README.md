@@ -1,0 +1,2 @@
+# twitch-highlight-finder
+Twitchのチャットログから盛り上がりポイントを検出するツール
